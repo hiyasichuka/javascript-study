@@ -1,3 +1,3 @@
 # javascript-study
 
-index.html
+宝さがしゲーム
